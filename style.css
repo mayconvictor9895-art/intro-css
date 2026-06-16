@@ -1,0 +1,17 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    /* color - aplica uma cor no texto do elemento selecionado */
+    color: rgb(230, 141, 25);
+}
+
+section{
+    /* backgroung-color - aplica uma cor de fundo no elemento selecionado */
+    background-color: antiquewhite;
+}
+
+p{
+    font-family: monospace;
+}
